@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Fonts/font.spritefont</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/Button.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/button2.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/cel.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/EndGame.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/main.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/Modemenu.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/PauseMenu.png</File>
+    <File>E:/C/repos/Sudoku/Sudoku/Content/Images/VictoryMenu.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
